@@ -1,0 +1,36 @@
+_repo: Woman-b-a-vindication_71805
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ludovici, Anthony M. (Anthony Mario)
+    aliases:
+    - Ludovici, Anthony Mario
+    - Ludovici, A. M. (Anthony Mario)
+    - Ludovici, Tony
+    birthdate: 1882
+    deathdate: 1971
+    gutenberg_agent_id: '1830'
+    url: http://www.gutenberg.org/2009/agents/1830
+    wikipedia: https://en.wikipedia.org/wiki/Anthony_Ludovici
+description: ''
+gutenberg_issued: '2023-10-04'
+identifiers:
+  gutenberg: '71805'
+  lccn: '23010644'
+language: en
+pgterms:marc905: 20220531002235ludovici
+pgterms:marc906: '1923'
+pgterms:marc907: GB
+production_note: Bob Taylor, Tim Lindell and the Online Distributed Proofreading Team
+  at https://www.pgdp.net
+publication_note: '  $aLondon :$bConstable, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women'
+- !lcsh 'Sex'
+- !lcc 'HQ'
+- GITenberg
+title: 'Woman : $b a vindication'
+url: http://www.gutenberg.org/ebooks/71805
